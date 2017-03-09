@@ -1,0 +1,21 @@
+{
+  "name": "component-experiments",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/kevinbarabash/component-experiments",
+  "author": "Kevin Barabash <kevinb@khanacademy.org>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.4.0",
+    "babel-preset-react": "^6.23.0",
+    "webpack": "^2.2.1"
+  },
+  "scripts": {
+    "watch": "webpack -w"
+  }
+}
